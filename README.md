@@ -1,13 +1,10 @@
-### Hi there 👋
-
-
 # Hi, my name is Hush!
 
 ---
 
 ### :man_technologist: About me:
 
-I'm a front-end developer with a passion for creating engaging and intuitive user experiences.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm skilled in a variety of front-end technologies, including HTML, CSS, and JavaScript, as well as popular framework like Vue.js.
+I'm a front-end developer with a passion for creating engaging and intuitive user experiences<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm skilled in a variety of front-end technologies, including HTML, CSS, and JavaScript, as well as popular framework like Vue.js.
 - 🎨 I love exploring the latest design trends and experimenting with creative ways to bring them to life on the web. I'm also comfortable working with design tools like Sketch and Figma to create pixel-perfect designs.
 
 - 🤔 Problem-solving is one of my strengths, and I enjoy tackling challenging coding issues and finding elegant solutions to complex problems.
@@ -16,7 +13,7 @@ I'm a front-end developer with a passion for creating engaging and intuitive use
 
 - 🚀 Above all, I'm passionate about creating high-quality front-end solutions that delight users and drive business results.
 
-- 📫 If you are interested in working with me or just want to talk about front-end development, write to me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Such_is_the_fate_of_the_poet) 
+- 📫 If you are interested in working with me or just want to talk about front-end development, write to me:  [![Telegram Badge](https://img.shields.io/badge/-GanievHush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Such_is_the_fate_of_the_poet) 
 
 ---
 
