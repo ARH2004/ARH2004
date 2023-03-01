@@ -1,4 +1,4 @@
-# Hi, my name is Hush!
+# 👋 Hola, my name is Hush!
 
 ---
 
@@ -23,7 +23,7 @@ I'm a front-end developer with a passion for creating engaging and intuitive use
     <a href="https://t.me/Such_is_the_fate_of_the_poet" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://t.me/Such_is_the_fate_of_the_poet" target="_blank">
+    <a href="https://spb.hh.ru/applicant/resumes/view?resume=4dddf0d5ff096453a30039ed1f4b6b4f696d42" style="margin-left: 5px" target="_blank">
       <img src="icons/hh.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
@@ -47,7 +47,7 @@ I'm a front-end developer with a passion for creating engaging and intuitive use
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
