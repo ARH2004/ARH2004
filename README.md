@@ -1,4 +1,4 @@
-# 👋 Hola, my name is Hush!
+# 👋 Hola, my name is Khush!
 
 ---
 
