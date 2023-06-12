@@ -60,5 +60,5 @@ I'm a front-end developer with a passion for creating engaging and intuitive use
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/GanievKhush/badges/large)
+![codewars](https://www.codewars.com/users/GanievHush/badges/large)
 
