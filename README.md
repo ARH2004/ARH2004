@@ -13,7 +13,7 @@ I'm a front-end developer with a passion for creating engaging and intuitive use
 
 - 🚀 Above all, I'm passionate about creating high-quality front-end solutions that delight users and drive business results.
 
-- 📫 If you are interested in working with me or just want to talk about front-end development, write to me: [![Telegram Badge](https://img.shields.io/badge/-GanievHush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Such_is_the_fate_of_the_poet) 
+- 📫 If you are interested in working with me or just want to talk about front-end development, write to me: [![Telegram Badge](https://img.shields.io/badge/-Ganievkhush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Such_is_the_fate_of_the_poet) 
 
 ---
 
